@@ -120,6 +120,32 @@ body {
   color: #f5f7fa;
 }
 
+.soft-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.languages-container {
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.languages-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #ff6b08;
+}
+
+.languages-text {
+  color: #f5f7fa;
+}
+
 .profession {
   font-size: 14px;
   font-weight: 700;
