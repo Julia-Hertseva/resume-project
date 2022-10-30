@@ -30,6 +30,8 @@ body {
 
 .my-photo {
   width: 370px;
+  border-radius: 30%;
+  
 }
 
 .about-me-container {
@@ -42,7 +44,7 @@ body {
 .contacts-container {
   margin-top: 60px;
   margin-left: 40px;
-  margin-right: 40px;
+  margin-right: 20px;
 }
 
 .contacts-title {
@@ -120,7 +122,7 @@ body {
   color: #f5f7fa;
 }
 
-.soft-skills-title {
+.languages-title {
   font-size: 22px;
   font-weight: 700;
   line-height: 24px;
@@ -131,7 +133,7 @@ body {
 .languages-container {
   margin-top: 50px;
   margin-left: 40px;
-  margin-right: 40px;
+  margin-right: 20px;
 }
 
 .languages-item {
@@ -157,6 +159,7 @@ body {
   font-size: 45px;
   font-weight: 700;
   line-height: 89px;
+  color: #1e2939;
 }
 
 .description {
